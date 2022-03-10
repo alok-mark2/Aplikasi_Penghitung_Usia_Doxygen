@@ -17,7 +17,6 @@ namespace ConsoleApplication1
         /// <remarks>class math dapat membuat operasi penambahan (add), pengurangan (subtract)</remarks>
         static void Main(string[] args)
         {
-///Ka
             ushort hari, bulan, tahun;
             Console.WriteLine("Hitung Usia");
             Console.WriteLine("===========");
@@ -39,16 +38,19 @@ namespace ConsoleApplication1
                 ///hasil dari penjumlahan antara tahun , bulan ,dan hari
                 Console.WriteLine("Umur kamu adalah {0} hari, {1} jam " + " {2} menit", usia.Days, usia.Hours, usia.Minutes);
             }
+		// Akan berjalan ketika terjadi kesalahan format input nilai pada blok diatas
             catch (FormatException e)
             {
                 ///Peringatan jika memasukkan selain angka
                 Console.WriteLine("Data tanggal, bulan, tahun harus berupa angka ");
             }
+		 ///Peringatan jika memasukkan selain angka
             catch (Exception e)
             {
                 ///peringatan ketika terjadi eror
                 Console.WriteLine("Terjadi kesalahan : ", e.Message);
             }
+		//digunakan untuk menunggu karakter yang di input kan dengan tujuan agar program saat di run tidak langsung keluar.
             Console.ReadKey();
         }
      
