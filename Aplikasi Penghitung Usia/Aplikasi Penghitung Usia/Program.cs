@@ -17,7 +17,7 @@ namespace ConsoleApplication1
         /// <remarks>class math dapat membuat operasi penambahan (add), pengurangan (subtract)</remarks>
         static void Main(string[] args)
         {
-
+///Ka
             ushort hari, bulan, tahun;
             Console.WriteLine("Hitung Usia");
             Console.WriteLine("===========");
