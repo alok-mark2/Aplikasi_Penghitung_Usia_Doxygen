@@ -1,0 +1,13 @@
+F:\Lanc\Aplikasi Penghitung Usia\Aplikasi Penghitung Usia\bin\Debug\Aplikasi Penghitung Usia.exe.config
+F:\Lanc\Aplikasi Penghitung Usia\Aplikasi Penghitung Usia\bin\Debug\Aplikasi Penghitung Usia.exe
+F:\Lanc\Aplikasi Penghitung Usia\Aplikasi Penghitung Usia\bin\Debug\Aplikasi Penghitung Usia.pdb
+F:\Lanc\Aplikasi Penghitung Usia\Aplikasi Penghitung Usia\obj\Debug\Aplikasi Penghitung Usia.csprojResolveAssemblyReference.cache
+F:\Lanc\Aplikasi Penghitung Usia\Aplikasi Penghitung Usia\obj\Debug\Aplikasi Penghitung Usia.exe
+F:\Lanc\Aplikasi Penghitung Usia\Aplikasi Penghitung Usia\obj\Debug\Aplikasi Penghitung Usia.pdb
+D:\Semester 6\Pengujian Penjaminan Kualitas Software (STQA)\Coding Dokumentasi\Aplikasi Penghitung Usia\Aplikasi Penghitung Usia\bin\Debug\Aplikasi Penghitung Usia.exe.config
+D:\Semester 6\Pengujian Penjaminan Kualitas Software (STQA)\Coding Dokumentasi\Aplikasi Penghitung Usia\Aplikasi Penghitung Usia\bin\Debug\Aplikasi Penghitung Usia.exe
+D:\Semester 6\Pengujian Penjaminan Kualitas Software (STQA)\Coding Dokumentasi\Aplikasi Penghitung Usia\Aplikasi Penghitung Usia\bin\Debug\Aplikasi Penghitung Usia.pdb
+D:\Semester 6\Pengujian Penjaminan Kualitas Software (STQA)\Coding Dokumentasi\Aplikasi Penghitung Usia\Aplikasi Penghitung Usia\obj\Debug\Aplikasi Penghitung Usia.csproj.AssemblyReference.cache
+D:\Semester 6\Pengujian Penjaminan Kualitas Software (STQA)\Coding Dokumentasi\Aplikasi Penghitung Usia\Aplikasi Penghitung Usia\obj\Debug\Aplikasi Penghitung Usia.csproj.CoreCompileInputs.cache
+D:\Semester 6\Pengujian Penjaminan Kualitas Software (STQA)\Coding Dokumentasi\Aplikasi Penghitung Usia\Aplikasi Penghitung Usia\obj\Debug\Aplikasi Penghitung Usia.exe
+D:\Semester 6\Pengujian Penjaminan Kualitas Software (STQA)\Coding Dokumentasi\Aplikasi Penghitung Usia\Aplikasi Penghitung Usia\obj\Debug\Aplikasi Penghitung Usia.pdb
